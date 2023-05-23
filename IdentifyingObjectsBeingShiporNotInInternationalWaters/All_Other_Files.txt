@@ -1,0 +1,6 @@
+This link contains all other files required and obtained after running this project.
+The files included here are:
+1. Dataset containing satellite captured scenes, images eextracted from the scenes and Details of the target variable in shipsnet.json file which is required to run this project.
+2. Various Models which were deployed after building it such as ann_model, cnn_model, ResNet_model and VGG_model along with it's files using Streamlit.
+
+linl: https://drive.google.com/drive/folders/1uUTJzG2LHlTalvEooA3ZvF8M4I_S5LLs?usp=sharing
